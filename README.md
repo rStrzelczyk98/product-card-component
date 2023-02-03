@@ -13,7 +13,7 @@ Users should be able to:
 
 ## Links
 
-- Live Site URL: [Product Card]()
+- Live Site URL: [Product Card](https://rstrzelczyk98.github.io/product-card-component/)
 
 ## Built with
 
